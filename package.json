@@ -1,0 +1,30 @@
+{
+  "name": "autograder",
+  "version": "1.0.0",
+  "description": "A system for automatically grading programming class assignments.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MRegirouard/AutoGrader.git"
+  },
+  "keywords": [
+    "grade",
+    "programming",
+    "class",
+    "assignment",
+    "classroom",
+    "google",
+    "sql",
+    "web",
+    "automatic"
+  ],
+  "author": "MRegirouard",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/MRegirouard/AutoGrader/issues"
+  },
+  "homepage": "https://github.com/MRegirouard/AutoGrader#readme"
+}
