@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/MRegirouard/AutoGrader/issues"
   },
-  "homepage": "https://github.com/MRegirouard/AutoGrader#readme"
+  "homepage": "https://github.com/MRegirouard/AutoGrader#readme",
+  "dependencies": {
+    "winston": "^3.3.3"
+  }
 }
